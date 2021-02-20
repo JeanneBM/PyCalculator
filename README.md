@@ -1,6 +1,7 @@
 # PyCalculator
 
 def switch(x):
+
     switcher = {
         1: Addition,
         2: Subtraction,
