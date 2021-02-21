@@ -17,7 +17,7 @@ print("2 - Subtraction")
 print("3 - Multiplication")
 print("4 - Division")
 
-# In python any inserted value is taken as True
+# In python, any inserted value is taken as True
 while True:
     choice = input("What kind of operation should be performed? [Insert one of the options(1,2,3,4)]: ")
 
