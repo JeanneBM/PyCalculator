@@ -38,7 +38,7 @@ while True:
             print(x, "/", y, "=", division(x, y))
         break
     else:
-        print("There is no such an option")
+        print("There is no such an option. Select please one of the following: 1 2 3 4")
         
         
         
