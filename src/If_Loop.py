@@ -19,7 +19,7 @@ print("4 - Division")
 
 # In python, any inserted value is taken as True
 while True:
-    choice = input("What kind of operation should be performed? [Insert one of the options(1,2,3,4)]: ")
+    choice = input("What kind of operation should be performed? [Insert one of the options(1,2,3,4) or press Ctrl+c to quit]: ")
 
     if choice in ('1', '2', '3', '4'):
         x = float(input("Enter first number: "))
